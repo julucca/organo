@@ -5,7 +5,7 @@ Repositório com projeto Organo desenvolvido durante o curso React: desenvolvend
 ## 📁 Detalhes do projeto
 
 <div align="center">
-	<img width=600px src="../public/imagens/git-organo.gif">
+	<img width=600px src="./public/imagens/git-organo.gif">
 </div><br>
 
 O Organo é um formulário de cadastro fictício de colaboradores da Alura.
@@ -46,5 +46,6 @@ Depois, acesse [http://localhost:3000/](http://localhost:3000/) no seu navegad
 
 <hr>
 
-Desenvolvido com 💙 por [Juliana Lucca](https://www.linkedin.com/in/julianalucca/)
+Desenvolvido com 💙 por [Juliana Lucca](https://www.linkedin.com/in/julianalucca/).
+
 Projeto original desenvolvido por [Alura](https://www.alura.com.br/).
